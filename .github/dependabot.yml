@@ -1,6 +1,6 @@
 version: 2
 updates:
   - package-ecosystem: "gradle"
-    directory: "/../../../../../work/src/source.datanerd.us/scorecards/batch-primitive-scheduler"
+    directory: "/"
     schedule:
       interval: "daily"
